@@ -4,3 +4,6 @@
 
 
 tracks		-----------  履带
+IdlerWheel  -----------  诱导轮  
+                         wheel_pt1.stl 轮帽
+                         wheel_pt2.stl 本体
