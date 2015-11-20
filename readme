@@ -6,7 +6,9 @@ http://www.dfrobot.com.cn/community/forum.php?mod=viewthread&tid=12414&extra=pag
 目录说明：
 
 
-tracks		-----------  履带
+tracks	    -----------  履带
 IdlerWheel  -----------  诱导轮  
                          wheel_pt1.stl 轮帽
                          wheel_pt2.stl 本体
+DriveWheel  -----------  主动轮
+			 drive_wheel.stl 本体
