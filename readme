@@ -18,3 +18,16 @@ RoadWheel   -----------  路轮
 			 road_wheel_screw02.stl 轮面螺母组2
 			 road_wheel_axle.stl	路轮轴套
 			 road_wheel_arm.stl     路轮摇臂
+			 road_wheel_holderhead_long.stl   轴套帽（长）
+			 road_wheel_holderhead_short.stl  轴套帽（短）
+Hull	   ------------  车体（底盘）
+			 hull001.stl 车体分块1 （车首） 
+                         hull002.stl 车体分块2
+                         hull003.stl 车体分块3
+                         hull004.stl 车体分块4
+                         hull005.stl 车体分块5
+                         hull006.stl 车体分块6
+                         hull007.stl 车体分块7
+                         hull008.stl 车体分块8
+                         hull009.stl 车体分块9
+                         hull010.stl 车体分块10（车尾）
