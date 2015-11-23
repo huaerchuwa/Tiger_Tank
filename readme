@@ -12,6 +12,7 @@ IdlerWheel  -----------  诱导轮
                          wheel_pt2.stl 本体
 DriveWheel  -----------  主动轮
 			 drive_wheel.stl 本体
+			 drive_wheel_guard.stl  挡泥圈
 RoadWheel   -----------  路轮
 			 road_wheel_base.stl	本体
 			 road_wheel_screw01.stl 轮面螺母组1
