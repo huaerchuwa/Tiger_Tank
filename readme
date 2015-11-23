@@ -21,6 +21,8 @@ RoadWheel   -----------  路轮
 			 road_wheel_arm.stl     路轮摇臂
 			 road_wheel_holderhead_long.stl   轴套帽（长）
 			 road_wheel_holderhead_short.stl  轴套帽（短）
+			 road_wheel_hullholder001.stl 路轮轴车体固定座
+			 road_wheel_hullholder002.stl 摇臂轴车体固定座
 Hull	   ------------  车体（底盘）
 			 hull001.stl 车体分块1 （车首） 
                          hull002.stl 车体分块2
