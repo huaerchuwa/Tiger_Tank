@@ -46,3 +46,10 @@ SideArmo   ------------  侧面装甲
 SkirtArmo  ------------  裙甲
                          skirt_armo_L.stl 左侧裙甲
                          skirt_armo_R.stl 右侧裙甲
+Mudguard   ------------  挡泥板
+                         front_mudguard_L001.stl
+                         front_mudguard_L002.stl
+                         front_mudguard_R001.stl
+                         front_mudguard_R002.stl
+                         back_mudguard_L.stl
+                         back_mudguard_R.stl
