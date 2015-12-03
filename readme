@@ -11,20 +11,20 @@ IdlerWheel  -----------  诱导轮
                          wheel_pt1.stl 轮帽
                          wheel_pt2.stl 本体
 DriveWheel  -----------  主动轮
-			 drive_wheel.stl 本体
-			 drive_wheel_guard.stl  挡泥圈
+			 			 drive_wheel.stl 本体
+			 			 drive_wheel_guard.stl  挡泥圈
 RoadWheel   -----------  路轮
-			 road_wheel_base.stl	本体
-			 road_wheel_screw01.stl 轮面螺母组1
-			 road_wheel_screw02.stl 轮面螺母组2
-			 road_wheel_axle.stl	路轮轴套
-			 road_wheel_arm.stl     路轮摇臂
-			 road_wheel_holderhead_long.stl   轴套帽（长）
-			 road_wheel_holderhead_short.stl  轴套帽（短）
-			 road_wheel_hullholder001.stl 路轮轴车体固定座
-			 road_wheel_hullholder002.stl 摇臂轴车体固定座
+			 			 road_wheel_base.stl	本体
+			 			 road_wheel_screw01.stl 轮面螺母组1
+			 			 road_wheel_screw02.stl 轮面螺母组2
+			 			 road_wheel_axle.stl	路轮轴套
+			 			 road_wheel_arm.stl     路轮摇臂
+			 			 road_wheel_holderhead_long.stl   轴套帽（长）
+			 			 road_wheel_holderhead_short.stl  轴套帽（短）
+			 			 road_wheel_hullholder001.stl 路轮轴车体固定座
+			 			 road_wheel_hullholder002.stl 摇臂轴车体固定座
 Hull	   ------------  车体（底盘）
-			 hull001.stl 车体分块1 （车首） 
+			 			 hull001.stl 车体分块1 （车首） 
                          hull002.stl 车体分块2
                          hull003.stl 车体分块3
                          hull004.stl 车体分块4
@@ -35,8 +35,11 @@ Hull	   ------------  车体（底盘）
                          hull009.stl 车体分块9
                          hull010.stl 车体分块10（车尾）
 FrontArmo  ------------  前部装甲
-			 front_armo_topL.stl  左半部前装甲（观察窗部分）
-			 front_armo_topR.stl  右半部前装甲（机枪部分）
-			 front_armo_bottom.stl  前部装甲底
+			 			 front_armo_topL.stl  左半部前装甲（观察窗部分）
+			 			 front_armo_topR.stl  右半部前装甲（机枪部分）
+			 			 front_armo_bottom.stl  前部装甲底
 BackArmo   ------------  后部装甲
-             back_armoLR.stl 左右后装甲
+             			 back_armoLR.stl 左右后装甲
+SideArmo   ------------  侧面装甲
+						 side_armo_L.stl 左侧面装甲
+						 side_armo_R.stl 右侧面装甲
