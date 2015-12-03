@@ -38,3 +38,5 @@ FrontArmo  ------------  前部装甲
 			 front_armo_topL.stl  左半部前装甲（观察窗部分）
 			 front_armo_topR.stl  右半部前装甲（机枪部分）
 			 front_armo_bottom.stl  前部装甲底
+BackArmo   ------------  后部装甲
+             back_armoLR.stl 左右后装甲
